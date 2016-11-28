@@ -1,0 +1,20 @@
+.comedy{
+    color: violet;
+    background-color: #8439CB;
+}
+.drama{
+    color: dodgerblue;
+    background-color: MediumTurquoise ;
+}
+.animated{
+    color: lightgreen;
+    background-color: black;
+}
+.humor{
+    color: midnightblue;
+    background-color: #E3CAFA  ;
+}
+.title{
+    color: darkviolet;
+    font-family: "Courier";
+}
